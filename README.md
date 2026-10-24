@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikaagangwar108&label=Profile views&color=0e75b6&style=flat" alt="anshikaagangwar108" /> </p>
 
-- 🌱 I'm currently learning **Full stack web development **
+- 🌱 I'm currently learning Full stack web development.
 
-- 📫 How to reach me **anshikagangwar108@gmail.com**
+- 📫 How to reach me anshikagangwar108@gmail.com
 
-- 📝 I regularly write articles on **[https://github.com/anshikaagangwar108](https://github.com/anshikaagangwar108)**
+- 📝 I regularly write articles on [https://github.com/anshikaagangwar108](https://github.com/anshikaagangwar108)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
