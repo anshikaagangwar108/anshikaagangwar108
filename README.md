@@ -2,8 +2,6 @@
 
 ### A passionate Full stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikaagangwar108&label=Profile views&color=0e75b6&style=flat" alt="anshikaagangwar108" /> </p>
-
 - 🌱 I'm currently learning Full stack web development.
 
 - 📫 How to reach me anshikagangwar108@gmail.com
