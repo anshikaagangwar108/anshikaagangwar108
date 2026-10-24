@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/anshikaagangwar108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anshikaagangwar108" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Anshika Gangwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anshika Gangwar" height="30" width="40" /></a>
-<a href="https://leetcode.com/anshika_gangwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshika_gangwar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/Anshika Gangwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Anshika Gangwar" height="30" width="40" /></a>
+<a href="https://github.com/anshikaagangwar108" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anshikaagangwar108" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anshika-gangwar-65b813381" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anshika Gangwar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/anshikaa_gangwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshikaa_gangwar" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/anshikaga2c0f" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshikaga2c0f" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
